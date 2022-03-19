@@ -1,4 +1,4 @@
-# Type Data Python
+# Python Advanced Data Types
 4 built-in data types in Python used to store collections of data, there are **List**, **Tuple**, **Set**, and **Dictionary**, all with different qualities and usage.
 
 ## **List**
